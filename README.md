@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/python-3.5%20%7C%203.6%20%7C%203.7-389474)
+[![Download](https://img.shields.io/badge/Download-389474)](http://GitHub.com/TheRealOXY/customqr/releases/download/1.0/customqr.zip)
+
 ## customqr
 *python based qr maker*
 
